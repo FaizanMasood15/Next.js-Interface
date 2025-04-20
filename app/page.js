@@ -442,6 +442,7 @@ export default function Home() {
                 </button>
               </div>
               <p className="text-gray-400 text-sm mt-2">Sign up for our newsletter</p>
+              
             </div>
           </div>
         </div>
