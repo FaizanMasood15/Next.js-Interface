@@ -87,7 +87,7 @@ export default function Home() {
       </header>
 
       {/* Hero Section */}
-      <section className="py-12 md:py-20 px-4 md:px-10 lg:px-35">
+      <section className="py-12 md:py-20 px-6 md:px-10 lg:px-25 lg:py-25">
         <div className="max-w-7xl mx-auto">
           <div className="flex flex-col md:flex-row justify-between items-center gap-8 lg:gap-12">
             <div className="md:w-1/2 space-y-6">
