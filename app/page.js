@@ -87,11 +87,11 @@ export default function Home() {
       </header>
 
       {/* Hero Section */}
-      <section className="py-12 md:py-20 px-4 sm:px-35">
+      <section className="py-12 md:py-20 px-6 md:px-10 lg:px-25 lg:py-25">
         <div className="max-w-7xl mx-auto">
           <div className="flex flex-col md:flex-row justify-between items-center gap-8 lg:gap-12">
             <div className="md:w-1/2 space-y-6">
-              <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold leading-tight">
+              <h1 className="text-3xl sm:text-4xl md:text-[33px] lg:text-5xl font-bold leading-tight">
                 Lessons and insights <span className="text-green-600">from 8 years</span>
               </h1>
               <p className="text-lg text-gray-600">
