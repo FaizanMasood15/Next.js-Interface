@@ -23,7 +23,7 @@ export default function Home() {
                   priority
                 />
               </div>
-              <span className="text-xl md:text-2xl font-bold">Nexcent</span>
+              <span className="text-xl md:text-2xl font-bold">Faizan Masood</span>
             </div>
 
             {/* Desktop Navigation */}
@@ -326,7 +326,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-2xl md:text-3xl font-bold mb-4 text-center">Caring is the new marketing</h2>
           <p className="text-center text-gray-600 mb-12 max-w-2xl mx-auto">
-            The Nexcent blog is the best place to read about the latest membership insights, trends and more. See who's joining the community.
+            The Nexcent blog is the best place to read about the latest membership insights, trends and more. See who joining the community.
           </p>
           
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
@@ -395,7 +395,7 @@ export default function Home() {
                     className="object-contain"
                   />
                 </div>
-                <span className="text-2xl font-bold">Nexcent</span>
+                <span className="text-2xl font-bold">Faizan Masood</span>
               </div>
               <p className="text-gray-400 mb-4">Copyright © 2023 Nexcent Ltd.</p>
               <p className="text-gray-400">All rights reserved</p>
